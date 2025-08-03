@@ -87,8 +87,6 @@
   inline-size: 9px;
 }
 
-.header__theme-menu {}
-
 .header__theme-menu-list {
   display: flex;
   flex-direction: column;
